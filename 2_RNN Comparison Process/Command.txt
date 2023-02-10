@@ -1,0 +1,1 @@
+ python DER-WER.py -ofp test.txt -tfp outputs.txt
