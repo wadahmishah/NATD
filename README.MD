@@ -5,6 +5,17 @@
 #   Use Google Colab to Run the Source Code: https://colab.research.google.com/
 Uploading the first Python source code to Google Drive in order to avail the source code script to the public 
 
+#Requirements List to be installed during the preparation phase
+
+!pip install keras==2.2.5
+!pip install tensorflow-gpu==1.15.4
+!pip install git+https://www.github.com/keras-team/keras-contrib.git
+!pip install matplotlib==2.1.0
+!pip install sklearn==0.0
+!pip install python-bidi==0.4.0
+!pip install arabic-reshaper==2.0.15
+
+Then,
 
  1- You should access google COLAB to run the source code.
 
